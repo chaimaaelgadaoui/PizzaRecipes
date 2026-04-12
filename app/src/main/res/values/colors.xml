@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Thème Principal Blanc & Rose Vif -->
+    <color name="primary">#F10054</color>
+    <color name="primary_dark">#D00048</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#1A1A1A</color>
+    <color name="gray">#757575</color>
+    <color name="gray_light">#F5F5F5</color>
+
+    <!-- Mapping Material Design 3 -->
+    <color name="md_theme_light_primary">@color/primary</color>
+    <color name="md_theme_light_onPrimary">@color/white</color>
+    <color name="md_theme_light_primaryContainer">#FFD9DE</color>
+    <color name="md_theme_light_onPrimaryContainer">#3F0013</color>
+
+    <color name="md_theme_light_secondary">#76565A</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#FFDADD</color>
+    <color name="md_theme_light_onSecondaryContainer">#2C1518</color>
+
+    <color name="md_theme_light_background">#FFFFFF</color>
+    <color name="md_theme_light_onBackground">#1A1A1A</color>
+    <color name="md_theme_light_surface">#FFFFFF</color>
+    <color name="md_theme_light_onSurface">#1A1A1A</color>
+    <color name="md_theme_light_surfaceVariant">#F4DDDF</color>
+    <color name="md_theme_light_onSurfaceVariant">#524345</color>
+
+    <color name="text_secondary">@color/gray</color>
+    <color name="divider">#EEEEEE</color>
+</resources>
