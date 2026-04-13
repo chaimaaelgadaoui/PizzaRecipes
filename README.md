@@ -1,5 +1,6 @@
-🍕 PizzaMood By Chaimaa
-📱 Description
+🍕 PizzaMood By Chaimaa 
+
+Description
 
 PizzaMood By Chaimaa est une application mobile Android développée en Java, permettant aux utilisateurs de découvrir des recettes de pizza selon leur humeur 🍕✨.
 
